@@ -1,0 +1,16 @@
+{
+  "defaultEquation": "sin(x)",
+  "defaultXMin": -10,
+  "defaultXMax": 10,
+  "defaultScale": 50,
+  "defaultStrokeColor": "#1e1e1e",
+  "defaultStrokeWidth": 2,
+  "lastShowTickMarks": true,
+  "lastXTickInterval": 1,
+  "lastYTickInterval": 1,
+  "lastShowNumbers": true,
+  "lastDrawBorder": false,
+  "lastShowGrid": false,
+  "lastShowArrows": true,
+  "lastTolerance": 1
+}
