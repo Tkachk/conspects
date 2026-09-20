@@ -11,14 +11,12 @@
             "id": "3f9250e66f5f9c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "public/Матеша/ТРИГОНОМЕТРИЯ.md",
-                "mode": "source",
-                "source": false
+                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png"
               },
-              "icon": "lucide-file",
-              "title": "ТРИГОНОМЕТРИЯ"
+              "icon": "lucide-image",
+              "title": "{DFBFD57E-4567-4D58-8771-43F1941AD334}"
             }
           }
         ]
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деловые Коммуникации/Споры в деловом общении.md",
+                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,18 +174,19 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "public/Матеша/ТРИГОНОМЕТРИЯ.md"
+                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,33 +206,33 @@
   "active": "51884698f995c3b1",
   "lastOpenFiles": [
     "materials/Pasted image 20260920224631.png",
-    "Excalidraw/Drawing 2026-09-20 22.45.34.excalidraw.md",
-    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
-    "Excalidraw/Drawing 2026-09-20 22.44.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-20 22.44.25.excalidraw.md",
-    "Excalidraw",
+    "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
     "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
-    "personal/Матеша/ТРИГОНОМЕТРИЯ.md",
+    "private/ПОЛЬЗОВАНИЕ GIT.md",
     "public/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "public/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
     "public/Деловые Коммуникации/2 ПАРА Этика.md",
     "public/Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
+    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
+    "Без названия.canvas",
+    "Без названия.base",
+    "Excalidraw/Drawing 2026-09-20 22.45.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-20 22.44.45.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-20 22.44.25.excalidraw.md",
+    "Excalidraw",
+    "personal/Матеша/ТРИГОНОМЕТРИЯ.md",
     "public/Программирование на Csharp",
     "public/Матеша",
     "public/История",
     "public/Деловые Коммуникации",
     "public",
-    "private/ПОЛЬЗОВАНИЕ GIT.md",
     "personal/История",
     "private",
     "personal",
-    "Личное",
-    "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
     "personal/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "personal/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
     "personal/Деловые Коммуникации/2 ПАРА Этика.md",
     "personal/Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
-    "Без названия.canvas",
     "Формулировка цели.md"
   ]
 }
