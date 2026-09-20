@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
+                "file": "personal/Матеша/ТРИГОНОМЕТРИЯ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 ПАРА Стратегии модели и тактики ведения переговоров"
+              "title": "ТРИГОНОМЕТРИЯ"
             }
           }
         ]
@@ -171,13 +171,15 @@
             }
           },
           {
-            "id": "e527107ca169df35",
+            "id": "8f5fbf3800f7d391",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "footnotes",
+              "state": {
+                "file": "personal/Матеша/ТРИГОНОМЕТРИЯ.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
             }
           }
         ],
@@ -196,21 +198,32 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "45c4027e0bb01850",
   "lastOpenFiles": [
-    "Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
-    "Деловые Коммуникации/2 ПАРА Этика.md",
-    "Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
+    "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
+    "personal/Матеша/ТРИГОНОМЕТРИЯ.md",
+    "private/ПОЛЬЗОВАНИЕ GIT.md",
+    "personal/История",
+    "private",
+    "personal",
+    "Личное",
+    "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
+    "materials",
+    "personal/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
+    "personal/Матеша",
+    "personal/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
+    "personal/Деловые Коммуникации/2 ПАРА Этика.md",
+    "personal/Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
     "Новый текстовый документ.txt",
-    "Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "Деловые Коммуникации.zip",
     "Без названия.canvas",
     "Без названия.base",
-    "Программирование на Csharp",
-    "Формулировка цели.md",
-    "Деловые Коммуникации"
+    "personal/Программирование на Csharp",
+    "Формулировка цели.md"
   ]
 }
