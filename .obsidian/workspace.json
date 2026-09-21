@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69fe5a83f6873ca6",
+        "id": "db97e1296678b020",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9250e66f5f9c59",
+            "id": "a5b45bda16447c53",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png"
+                "file": "public/Матеша/МАТРИЦЫ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "{DFBFD57E-4567-4D58-8771-43F1941AD334}"
+              "icon": "lucide-file",
+              "title": "МАТРИЦЫ"
             }
           }
         ]
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
+                "file": "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,7 +176,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png"
+                "file": "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
@@ -198,22 +200,24 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "51884698f995c3b1",
   "lastOpenFiles": [
-    "materials/Pasted image 20260920224631.png",
-    "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
+    "public/Программирование на Csharp/Пары до 21.09.26.md",
+    "public/Матеша/МАТРИЦЫ.md",
+    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
+    "public/Физика/ФИЗИКА ДВИЖЕНИЯ.md",
     "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
     "private/ПОЛЬЗОВАНИЕ GIT.md",
+    "public/Физика",
+    "materials/Pasted image 20260920224631.png",
+    "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
     "public/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "public/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
     "public/Деловые Коммуникации/2 ПАРА Этика.md",
     "public/Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
-    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
     "Без названия.canvas",
     "Без названия.base",
     "Excalidraw/Drawing 2026-09-20 22.45.34.excalidraw.md",
@@ -228,7 +232,6 @@
     "public",
     "personal/История",
     "private",
-    "personal",
     "personal/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "personal/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
     "personal/Деловые Коммуникации/2 ПАРА Этика.md",
