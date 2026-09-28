@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/ПОЛЬЗОВАНИЕ GIT.md",
+                "file": "public/Матеша/МАТРИЦЫ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ПОЛЬЗОВАНИЕ GIT"
+              "title": "МАТРИЦЫ"
             }
           }
         ]
@@ -205,15 +205,19 @@
   },
   "active": "a5b45bda16447c53",
   "lastOpenFiles": [
-    "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
+    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
+    "public/Матеша/МАТРИЦЫ.md",
+    "public/Программирование на Csharp/Без названия.md",
+    "public/Программирование на Csharp/Пары до 21.09.26.md",
+    "public/Программирование на Csharp/Суффиксы.md",
+    "public/Программирование на Csharp/Переменные.md",
+    "public/Программирование на Csharp/Типы данных.md",
+    "public/Физика/ФИЗИКА ДВИЖЕНИЯ.md",
     "private/ПОЛЬЗОВАНИЕ GIT.md",
+    "private/ПОЛЬЗОВАНИЕ LATEXSUIT.md",
     "materials/{DFBFD57E-4567-4D58-8771-43F1941AD334}.png",
     "materials/Pasted image 20260920224631.png",
     "materials/Pasted image 20260925170430.png",
-    "public/Программирование на Csharp/Пары до 21.09.26.md",
-    "public/Программирование на Csharp/Суффиксы.md",
-    "public/Программирование на Csharp/Типы данных.md",
-    "public/Физика/ФИЗИКА ДВИЖЕНИЯ.md",
     "public/Деловые Коммуникации/1 ПАРА Деловые коммуникации.md",
     "public/Деловые Коммуникации/5 ПАРА Совещания.md",
     "public/История/РАЗДРОБЛЕННОСТЬ РОССИИ В СРЕДНИЕ ВЕКА.md",
@@ -221,8 +225,6 @@
     "public/Деловые Коммуникации/4 ПАРА Стратегии модели и тактики ведения переговоров.md",
     "public/Деловые Коммуникации/2 ПАРА Этика.md",
     "public/Деловые Коммуникации/3 ПАРА Споры в деловом общении.md",
-    "public/Матеша/МАТРИЦЫ.md",
-    "public/Матеша/ТРИГОНОМЕТРИЯ.md",
     "public/Физика",
     "Без названия.canvas",
     "Без названия.base",
